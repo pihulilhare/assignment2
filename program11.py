@@ -10,11 +10,11 @@ print(content.read())
 
 '''
 output:
-[root@demo FileHandlingAssignment]# python program11.py 
-apple
-mango
-banana
-watermelon
-papaya
-lichi
+[root@test assignment2]# python program11.py
+Andriod
+Java
+MongoDb
+Python
+Php
+Ruby
 '''
