@@ -3,3 +3,21 @@ with open('File2.txt') as f2, open('File1.txt') as f1:
     for l1, l2 in zip(f2, f1):  
         # l1 from File2.txt, l2 from File1.txt
         print(l1+l2)  
+''' Output
+[root@test assignment2]# python program13.py
+Andriod
+Andriod
+Java
+Java
+
+MongoDb
+MongoDb
+
+Python
+Python
+
+Php
+Php
+
+Ruby
+Ruby'''
