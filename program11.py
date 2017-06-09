@@ -3,9 +3,9 @@
 
 SkillSet = ['Andriod', 'Java', 'MongoDb', 'Python', 'Php', 'Ruby']   
 with open('File1.txt', "w") as file:   
-  for file in SkillSet:   
-   file.write("%s\n" % file)       
-   content = open('File1.txt')   
+  for f in SkillSet:   
+    file.write("%s\n" % f)       
+content = open('File1.txt')   
 print(content.read())   
 
 '''
