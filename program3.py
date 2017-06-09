@@ -7,3 +7,7 @@ def file_read(python):
         txt = open(python)  
         print(txt.read())  
 file_read('python.txt')  
+'''Output 
+[root@test assignment2]# python program3.py
+Python Exercises
+Java Exercises'''
