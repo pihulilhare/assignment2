@@ -1,12 +1,11 @@
 # Question 11 :Write a Python program to write a list to a file
 
 SkillSet = ['Andriod', 'Java', 'MongoDb', 'Python', 'Php', 'Ruby']   
-5 with open('File1.txt', "w") as file:   
-6         for file in SkillSet:   
-7                 file.write("%s\n" % file)   
-8    
-9 content = open('File1.txt')   
-10 print(content.read())   
+ with open('File1.txt', "w") as file:   
+         for file in SkillSet:   
+                 file.write("%s\n" % file)       
+ content = open('File1.txt')   
+ print(content.read())   
 
 '''
 output:
