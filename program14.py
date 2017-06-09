@@ -6,7 +6,7 @@ print random.choice(l)
 
 '''
 output:
-[root@demo FileHandlingAssignment]# python program14.py
-apple
+[root@test assignment2]# python program14.py
+"I'm not mad at all! I'm just differently sane!!"
 '''
 
