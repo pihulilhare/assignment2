@@ -5,7 +5,7 @@ with open('File1.txt', "w") as file:
   for file in SkillSet:   
    file.write("%s\n" % file)       
    content = open('File1.txt')   
- print(content.read())   
+print(content.read())   
 
 '''
 output:
