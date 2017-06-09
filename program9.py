@@ -21,3 +21,19 @@ for w in file.read().split():
 
 for n in wordcount.items():
     print n
+''' [root@test assignment2]# python program9.py
+('sane!!"', 1)
+('good', 1)
+('"Aren\'t', 1)
+('just', 2)
+('all!', 1)
+('I', 1)
+('differently', 1)
+('to', 1)
+('enough', 1)
+('at', 1)
+('eat?"', 1)
+('"I\'m', 1)
+('not', 1)
+("I'm", 1)
+('mad', 1)'''
