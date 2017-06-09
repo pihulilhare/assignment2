@@ -5,3 +5,8 @@ def file_read(python):
                  content_list = file.readlines()
                  print(content_list)
 file_read('python.txt')
+'''Output 
+[root@test assignment2]# python program5.py
+['Python Exercises\n', 'Java Exercises']'''
+
+
