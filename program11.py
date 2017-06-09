@@ -1,3 +1,4 @@
+
 # Question 11 :Write a Python program to write a list to a file
 
 SkillSet = ['Andriod', 'Java', 'MongoDb', 'Python', 'Php', 'Ruby']   
@@ -16,4 +17,4 @@ banana
 watermelon
 papaya
 lichi
-
+'''
