@@ -8,5 +8,8 @@ print random.choice(l)
 output:
 [root@test assignment2]# python program14.py
 "I'm not mad at all! I'm just differently sane!!"
+
+[root@test assignment2]# python program14.py
+"Aren't I just good enough to eat?" 
 '''
 
