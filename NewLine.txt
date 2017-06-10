@@ -1,3 +1,3 @@
-Python Training
-Java Training
-Framework Training
+Python Training\n
+Java Training\n
+Framework Training\n
