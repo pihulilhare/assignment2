@@ -7,6 +7,7 @@ def file_read(python):
 file_read('python.txt')
 '''Output 
 [root@test assignment2]# python program5.py
-['Python Exercises\n', 'Java Exercises']'''
+['Python Exercises\n', 'Java Exercises\n', 'Cloud Practice\n', 'Basic Learning\n', 'Andriod Training\n', 'Framewo
+rk Training\n']'''
 
 
