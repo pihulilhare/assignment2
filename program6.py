@@ -4,3 +4,8 @@ def file_read(python):
                 data=file.readlines()  
                 print(data)  
 file_read('python.txt')  
+
+'''Output
+[root@test assignment2]# python program6.py
+['Python Exercises\n', 'Java Exercises\n', 'Cloud Practice\n', 'Basic Learning\n', 'Andriod Training\n', 'Framework Training\n']
+'''
